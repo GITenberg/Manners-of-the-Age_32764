@@ -1,0 +1,40 @@
+_repo: Manners-of-the-Age_32764
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Marchetti, Louis
+    aliases:
+    - Marchetti, Louis J.
+    - Marchetti, Lou
+    - Marchetti
+    birthdate: 1920
+    deathdate: 1992
+    gutenberg_agent_id: '36035'
+    url: http://www.gutenberg.org/2009/agents/36035
+covers:
+- cover_type: archival
+  image_path: 32764-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fyfe, H. B. (Horace Bowne)
+    alias: Fyfe, Horace Bowne
+    birthdate: 1918
+    deathdate: 1997
+    gutenberg_agent_id: '25276'
+    url: http://www.gutenberg.org/2009/agents/25276
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Manners of the Age
+url: http://www.gutenberg.org/ebooks/32764
